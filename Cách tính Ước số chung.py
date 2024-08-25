@@ -1,5 +1,5 @@
 print('Cách tính ước số chung')
-#Ước số chung của 2 số là số mà 2 số đó cùng chia hết. Ví dụ: ƯSC(4,8)={1,2,4}
+#Ước số chung của 2 số là mhững số mà 2 số đó cùng chia hết. Ví dụ: ƯSC(4,8)={1,2,4}
 print('''n,m=map(int,input().split())
 q=min(n,m)
 for i in range (1,q+1):
